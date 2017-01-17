@@ -1,0 +1,52 @@
+
+body {
+    height: 100%;
+    background: #FFF;
+    color: #333333;
+    font-size: 15px;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    min-width: 300px;
+    font-family: 'Adobe Garamond W01';
+    font-weight: 400;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    margin: 0;
+}
+
+html {
+    height: 100%;
+    font-size: 62.5%;
+}
+html {
+    font-family: sans-serif;
+}
+element.style {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    background-image: url("http://paris.dashblog.hercules-design.com/wp-content/uploads/sites/6/2015/09/MIJA_BREAKFASTINBED23_1-1070x700.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+#footer>.top {
+    background: #000;
+    border: 0;
+    padding: 3em 0;
+}
+
+
+
+
+
+
+
+
+
+
+
